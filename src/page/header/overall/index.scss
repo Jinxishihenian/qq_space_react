@@ -1,0 +1,9 @@
+$background-color: #04b1cc;
+
+.overall {
+  height: 41px;
+  width: 100%;
+  z-index: 500;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, .2);
+  background-color: $background-color;
+}

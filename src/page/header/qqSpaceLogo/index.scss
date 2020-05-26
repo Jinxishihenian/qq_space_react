@@ -1,0 +1,29 @@
+
+$image-url:"https://qzonestyle.gtimg.cn/aoi/sprite/icenter.32-yoo190131143813@2x.png";
+
+.logo{
+  height: 41px;
+}
+.logo-image{
+  width: 90px;
+  height: 41px;
+  display: inline-block;
+  background-image:url($image-url) ;
+  background-size: 575px 41px;
+  background-repeat: no-repeat;
+  background-position:0 0;
+}
+.logo-title{
+  display: inline-block;
+  font-weight: 400;
+  font-size: 12px;
+  color: white;
+}
+.logo-a{
+  display: flex;
+  align-content: center;
+  text-decoration:none;
+}
+.logo-a:hover{
+  text-decoration:none;
+}
