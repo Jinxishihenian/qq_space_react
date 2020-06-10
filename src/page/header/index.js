@@ -13,7 +13,26 @@ class Header extends Component {
             <Overall>
                 <div className="header">
                     <LoGo/>
-                    <HeaderItem/>
+                    <HeaderItem 
+                    title = "个人中心"
+                    left = {
+                       <div>
+                           <div>
+                           左边
+                           </div>
+                           <div>
+                           左边
+                       </div>
+                       <div>
+                       左边
+                       </div>
+                       </div>
+                       
+                    } 
+                    right = {
+                       <div>右边</div>
+                    }
+                    />
                 </div>
             </Overall>
         );

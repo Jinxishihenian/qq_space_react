@@ -92,19 +92,24 @@ class HeaderItem extends Component {
         // leftWidget 左侧内容.
         // rightWidget 右侧内容.
 
-        const {title} = this.props;
+        const {title,right,left} = this.props;
         return (
             <div className ="header-item-body">
                 <div ref={this.itemTitleRef} className="header-item-overall">
                     <i className="icon-kuozhangongneng commonality-icon-size"></i>
                     <span className="commonality-header-title">
-                    个人中心
+                    {title}
                     </span>
                     {this.state.isShow ? <i className="icon-down">
                     </i> : <span></span>}
                 </div>
                 <div ref={this.itemTitleContentRef} className="header-item-content">
-                    测试
+                  <div className = "header-item-right">
+                      { right }
+                  </div>
+                  <div className="header-item-left">
+                      { left }
+                  </div>
                 </div>
             </div>
         );
