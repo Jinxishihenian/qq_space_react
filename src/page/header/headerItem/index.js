@@ -94,7 +94,7 @@ class HeaderItem extends Component {
 
         const {title} = this.props;
         return (
-            <div className>
+            <div className ="header-item-body">
                 <div ref={this.itemTitleRef} className="header-item-overall">
                     <i className="icon-kuozhangongneng commonality-icon-size"></i>
                     <span className="commonality-header-title">
