@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c17a6b3-cd80-457d-a026-b01bdc0add3a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/page/header/headerItem/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/header/headerItem/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/header/headerItem/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/header/headerItem/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/header/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/header/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/fonts/icomoon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/fonts/icomoon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/fonts/icomoon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/fonts/icomoon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Sass File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cOxJSmaeINLwKLGB3vP7RI24xF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sass" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\react_project\my-app\src\sass" />
+      <recent name="E:\react_project\my-app\src\sass\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\react_project\my-app\src\sass" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c17a6b3-cd80-457d-a026-b01bdc0add3a" name="Default Changelist" comment="" />
+      <created>1590413368572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590413368572</updated>
+      <workItem from="1590413390016" duration="5370000" />
+      <workItem from="1590500710787" duration="5302000" />
+      <workItem from="1590587230393" duration="5391000" />
+      <workItem from="1590843990746" duration="10423000" />
+      <workItem from="1593834667725" duration="1786000" />
+      <workItem from="1593836876016" duration="1443000" />
+      <workItem from="1593840471551" duration="12000" />
+      <workItem from="1596870365534" duration="1261000" />
+    </task>
+    <task id="LOCAL-00001" summary="网页头部展开效果.">
+      <created>1590848960963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590848960963</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="网页头部展开效果." />
+    <option name="LAST_COMMIT_MESSAGE" value="网页头部展开效果." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593835218982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1593835218982" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590848958466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590848958466" />
+    <state x="202" y="175" width="685" height="648" key="EditFileWatcherDialog" timestamp="1590502875369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="202" y="175" width="685" height="648" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1590502875369" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1593834900100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593834900100" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1590848964216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590848964216" />
+    <state x="468" y="0" width="600" height="824" key="find.popup" timestamp="1590415392629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="0" width="600" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1590415392629" />
+    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590413540239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590413540239" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590853383739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590853383739" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590845556320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590845556320" />
+  </component>
+</project>

@@ -92,11 +92,11 @@ class HeaderItem extends Component {
         // leftWidget 左侧内容.
         // rightWidget 右侧内容.
 
-        const {title,right,left} = this.props;
+        const {title,right,left,logo,custom} = this.props;
         return (
-            <div className ="header-item-body">
+            <div className ={`header-item-body ${custom}`}>
                 <div ref={this.itemTitleRef} className="header-item-overall">
-                    <i className="icon-kuozhangongneng commonality-icon-size"></i>
+                    <i className= {`commonality-icon-size ${logo}`}></i>
                     <span className="commonality-header-title">
                     {title}
                     </span>

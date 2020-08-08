@@ -6,6 +6,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  //background-color: #04c3e0;
+  //background-color: ;
+}
+.header-item-overall:hover{
   background-color: #04c3e0;
 }
 .header-item-body:hover{
@@ -55,4 +59,10 @@
 }
 .header-item-left{
   flex:4
+}
+.custom{
+  background-color: #04c3e0;
+}
+.triangle{
+  
 }
