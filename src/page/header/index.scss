@@ -1,8 +1,11 @@
 .header{
   display: flex;
-  width: 1046px;
-  margin: auto;
+  float: left;
 }
 ul {
   padding-left: 10px;
+}
+.header-centent{
+  width: 1046px;
+  margin: auto;
 }

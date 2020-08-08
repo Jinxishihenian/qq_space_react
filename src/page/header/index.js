@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import Overall from "./overall";
 import LoGo from "./qqSpaceLogo";
 import HeaderItem from "./headerItem";
+import BackgroundMusic from "./backgroundMusic"
 import './index.scss'
 
 class Header extends Component {
@@ -12,6 +13,7 @@ class Header extends Component {
     render() {
         return (
             <Overall>
+                <div className = "header-centent">
                 <ul className="header">
                     <li><LoGo/></li>
                     <li><HeaderItem
@@ -95,7 +97,11 @@ class Header extends Component {
                         />
                     </li>
                 </ul>
-
+                 <div>
+                     <BackgroundMusic/>
+                 </div>
+                </div>
+               
             </Overall>
         );
     }

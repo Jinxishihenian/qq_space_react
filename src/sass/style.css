@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?j1n0sf');
-  src:  url('fonts/icomoon.eot?j1n0sf#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?j1n0sf') format('truetype'),
-    url('fonts/icomoon.woff?j1n0sf') format('woff'),
-    url('fonts/icomoon.svg?j1n0sf#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?bmcmt5');
+  src:  url('fonts/icomoon.eot?bmcmt5#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?bmcmt5') format('truetype'),
+    url('fonts/icomoon.woff?bmcmt5') format('woff'),
+    url('fonts/icomoon.svg?bmcmt5#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -52,6 +52,14 @@
 .icon-rencaiku:before {
   content: "\e903";
   color: #fff;
+}
+.icon-music:before {
+  content: "\e908";
+  color: #fff;
+}
+.icon-movie:before {
+  content: "\e909";
+  color: #e6e6e6;
 }
 .icon-nickname:before {
   content: "\e900";
