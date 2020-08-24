@@ -101,7 +101,6 @@ class Header extends Component {
                      <BackgroundMusic/>
                  </div>
                 </div>
-               
             </Overall>
         );
     }

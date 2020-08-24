@@ -1,16 +1,18 @@
 import React, { Component } from 'react'
-
+import SearchBox from './../searchBox/SearchBox.js'
+import './index.scss'
 export default class MusicButton extends Component {
     render() {
         return (
-            <div>
-                <div>
+            <div className = "shell">
+                <div className = "content-left">
                     <span className="icon-music"></span>
-                    <span className="mls"> icon-musi1c</span>
                 </div>
-                <div>
+                <div className = "content-right">
                     <span className="icon-movie"></span>
-                    <span className="mls"> icon-movie</span>
+                </div>
+                <div className = "input-shell">
+                    <SearchBox />
                 </div>
             </div>
         )

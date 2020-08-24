@@ -4,7 +4,7 @@ import './index.css';
 // import App from './App';
 // import LoGo from './page/header/qqSpaceLogo/index.js'
 import * as serviceWorker from './serviceWorker';
-import Overall from "./page/header/overall";
+// import Overall from "./page/header/overall";
 import Header from "./page/header";
 import './sass/base.scss'
 
