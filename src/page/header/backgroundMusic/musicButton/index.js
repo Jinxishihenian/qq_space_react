@@ -5,12 +5,14 @@ export default class MusicButton extends Component {
     render() {
         return (
             <div className = "shell">
-                <div className = "content-left">
+                {/* <div>1</div> */}
+                {/* <div className = "content-left">
                     <span className="icon-music"></span>
                 </div>
                 <div className = "content-right">
                     <span className="icon-movie"></span>
-                </div>
+                </div> */}
+                
                 <div className = "input-shell">
                     <SearchBox />
                 </div>

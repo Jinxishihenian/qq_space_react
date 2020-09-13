@@ -1,6 +1,6 @@
 .header{
   display: flex;
-  float: left;
+  // float: left;
 }
 ul {
   padding-left: 10px;
@@ -8,4 +8,10 @@ ul {
 .header-centent{
   width: 1046px;
   margin: auto;
+}
+.header-list{
+  display: inline-block;
+}
+.header-search{
+  height: 41px;
 }

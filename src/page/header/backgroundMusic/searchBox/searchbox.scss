@@ -9,6 +9,12 @@
     font-size: 12px;
     color: white;
     background-color: rgba(0,255,255,.25);
+    transition: width 0.4s ease-in-out;
+}
+.input-box:focus{
+    width: 120px;
+    color:black;
+    background-color: white;
 }
 .input-shell{
     position: absolute;
